@@ -1,0 +1,25 @@
+# PHP dependencies
+/vendor/
+
+# Node.js dependencies
+/node_modules/
+
+# Build output
+/dist/
+
+# Environment variables and sensitive configuration files
+.env
+
+# Log files
+*.log
+
+# Docker override file
+docker-compose.override.yml
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE and editor folders
+.idea/
+.vscode/
